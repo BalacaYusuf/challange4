@@ -1,0 +1,16 @@
+h1,p,h2{
+    color: brown;
+}
+h1.center{
+    text-align: center;
+}
+.style-table tr {
+    border: 10px;
+    color: blue;
+    margin: 15;
+    padding: 15;
+}
+.style-table th{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: darkorange;
+}
